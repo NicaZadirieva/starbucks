@@ -40,3 +40,11 @@
     font-size: 20px;
     font-weight: 400;
 }
+
+.hero__container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 170px;
+    padding-left: 130px;
+}
+
