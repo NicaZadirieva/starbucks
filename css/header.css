@@ -13,7 +13,7 @@
 }
 
 .header__logo {
-    background: linear-gradient(222.68deg, rgb(35, 114, 73), rgb(53, 198, 107));
+    background: var(--green_gradient_logo);
     /*hint: чтобы заработал градиент на тексте*/
     background-clip: text;
     -webkit-background-clip: text;
