@@ -15,11 +15,28 @@
     font-weight: 400;
 }
 
-.hero__title__span {
+.hero__title__span, .advantage__count__span {
     color: var(--green1);
 }
 
 .hero__btn_container {
     display: flex;
     gap: 16px;
+}
+
+.hero__advantages {
+    display: flex;
+    gap: 50px;
+}
+
+.advantage__count {
+    color: var(--white1);
+    font-size: 62px;
+    font-weight: 400;
+}
+
+.advantage__name {
+    color: var(--white2);
+    font-size: 20px;
+    font-weight: 400;
 }
