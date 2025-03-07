@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    align-items: center;
+    gap: 94px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    box-sizing: border-box;
+}
+
+.nav__ul {
+    display: flex;
+    gap: 94px;
+}
+
+.header__logo {
+    background: linear-gradient(222.68deg, rgb(35, 114, 73), rgb(53, 198, 107));
+    /*hint: чтобы заработал градиент на тексте*/
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    
+}
