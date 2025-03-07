@@ -23,6 +23,35 @@
 
 }
 
+.btn {
+    border-radius: 83px;
+    color: var(--white1);
+    padding: 20px 78px;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.btn-green {
+    background: var(--green_gradient_button);
+}
+
+.btn-green:hover {
+    background: var(--green_gradient_button_hover);
+}
+
+.btn-black {
+    background: var(--black1);
+    border: 1px solid var(--white2);
+    transition: .3s border linear;
+}
+
+.btn-black:hover {
+    border: 1px solid var(--green1);
+}
+
+
 .container {
     padding-left: 130px;
     padding-right: 130px;
