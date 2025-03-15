@@ -1,0 +1,47 @@
+.make__delicious__box {
+    display: flex;
+    justify-content: space-between;
+    background-image: url('/img/icon/line-icon.svg');
+    background-position: center center;
+    /**TODO: сделать поворот изображения*/
+    background-repeat: no-repeat;
+    background-size: 550px;
+}
+
+.make__delicious__span {
+    color: var(--green1);
+}
+.make__delicious__title {
+    font-size: 80px;
+    font-weight: 800;
+}
+.make__delicious__description {
+    color: var(--white2);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.make__delicious__content {
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+    max-width: 457px;
+}
+.make__delicious__image__box {
+    position: relative;
+    width: 465px;
+    background-color: var(--green1);
+}
+.make__delicious__image {
+    width: 100%;
+    height: 684px;
+    object-fit: cover;
+    transform: translateX(45px) translateY(-45px);
+}
+
+.we__have__image {
+    position: absolute;
+    right: 0;
+    transform: translateX(80px) translateY(-100px);
+    z-index: 5000;
+}
