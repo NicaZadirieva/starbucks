@@ -48,32 +48,6 @@
     padding-left: 130px;
 }
 
-/*TODO:*/
-/**Подозрительный блок с отступами. Надо тестить*/
-.hero__background__text {
-    position: relative;
-    color: var(--white1);
-    font-size: 40px;
-    width: 230px;
-    height: 230px;
-    box-sizing: border-box;
-    transform: rotate(-15deg) translate(300px, 10px);
-    background: url('/img/icon/star-icon.svg');
-    background-repeat: no-repeat;
-    z-index: 1000;
-}
-
-.hero__background__text::before {
-    position: absolute;
-    content: '45%';
-    top: 50%;
-    right: 0;
-    bottom: 0;
-    left: 50%;
-    pointer-events: none;
-    transform: translateY(-15%) translateX(-30%);
-}
-/****************************/
 
 .hero__container__background {
     background-image: url('/img/icon/logo_3.svg');
@@ -81,15 +55,4 @@
     width: 100%;
     height: 100%;
     min-width: 600px;
-}
-/*****TODO: линия повернута не туда куда надо*******/
-.hero__background__line {
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 100%;
-    height: 100%;
-    transform: translateY(14px);
-    background: url('/img/lines.png');
-    z-index: -1;
 }
