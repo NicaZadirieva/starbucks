@@ -1,0 +1,24 @@
+<svg width="219.614868" height="219.614746" viewBox="0 0 219.615 219.615" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_8_11_dd" x="0.000000" y="0.000000" width="219.614868" height="219.614746" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="-4.5648" dy="15.5203"/>
+			<feGaussianBlur stdDeviation="8.82527"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.078431 0 0 0 0 0.24314 0 0 0 0 0.15686 0 0 0 0.46 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<linearGradient x1="286.281555" y1="85.063599" x2="149.745987" y2="148.437927" id="paint_linear_8_11_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#237249"/>
+			<stop offset="1.000000" stop-color="#35C66B"/>
+		</linearGradient>
+	</defs>
+	<g filter="url(#filter_8_11_dd)">
+		<path id="Star 1" d="M158.77 28.24C153.4 29.77 147.8 26.7 146.21 21.35C144.15 14.44 135.77 11.8 130.12 16.27C125.74 19.74 119.4 19.05 115.88 14.72C111.33 9.12 102.57 9.89 99.06 16.19C96.35 21.06 90.22 22.85 85.31 20.19C78.97 16.76 71.17 20.83 70.34 27.99C69.7 33.53 64.72 37.53 59.17 36.95C52 36.21 46.35 42.95 48.32 49.88C49.85 55.25 46.78 60.85 41.43 62.44C34.53 64.5 31.88 72.88 36.36 78.53C39.83 82.91 39.13 89.25 34.8 92.77C29.2 97.32 29.97 106.08 36.27 109.59C41.15 112.3 42.93 118.43 40.28 123.34C36.85 129.68 40.91 137.48 48.07 138.31C53.62 138.95 57.61 143.93 57.04 149.48C56.3 156.65 63.03 162.3 69.97 160.33C75.33 158.8 80.93 161.87 82.52 167.21C84.58 174.12 92.97 176.77 98.62 172.29C102.99 168.82 109.34 169.52 112.86 173.85C117.4 179.45 126.17 178.68 129.67 172.38C132.38 167.5 138.51 165.72 143.42 168.37C149.76 171.8 157.56 167.74 158.39 160.58C159.03 155.03 164.01 151.04 169.56 151.61C176.73 152.35 182.39 145.62 180.41 138.68C178.88 133.32 181.95 127.72 187.3 126.13C194.21 124.07 196.85 115.68 192.37 110.03C188.91 105.66 189.6 99.31 193.93 95.79C199.53 91.25 198.76 82.48 192.46 78.98C187.59 76.27 185.8 70.14 188.46 65.23C191.89 58.89 187.82 51.09 180.66 50.26C175.12 49.62 171.12 44.64 171.7 39.09C172.44 31.92 165.7 26.26 158.77 28.24Z" fill="url(#paint_linear_8_11_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
